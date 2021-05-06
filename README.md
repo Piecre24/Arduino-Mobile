@@ -1,5 +1,6 @@
 ## This Biolerplate consist of React and Node.JS
 
+# Compenents needed
 # Things to do
 - Script npm run dev []
 - Redux []
